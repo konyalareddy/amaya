@@ -41,6 +41,8 @@ const config: CodegenConfig = {
 					Minute: "number",
 					PositiveDecimal: "number",
 					UUID: "string",
+					Hour: "number",
+					PositiveInt: "number",
 					Upload: "unknown",
 					WeightScalar: "unknown",
 					_Any: "unknown",
